@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/jdxcode/netrc"
+	netrc "github.com/jdx/go-netrc"
 )
 
 const (

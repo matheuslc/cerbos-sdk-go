@@ -11,7 +11,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/google/go-cmp v0.6.0
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.2.0
-	github.com/jdxcode/netrc v1.0.0
+	github.com/jdx/go-netrc v1.0.0
 	github.com/lestrrat-go/jwx/v2 v2.1.3
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/rs/xid v1.6.0
